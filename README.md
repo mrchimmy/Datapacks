@@ -1,6 +1,8 @@
 # Datapacks
 Datapacks From BananaCNM and MC-Creator Create By MrChimKy
 
+**:white_check_mark: ดาวน์โหลด Zip file เลือกลงได้เลย !**
+
 **สารบัญ สูตรคราฟ**
 * [สูตรคราฟ Slabs to Planks](./README.md#slabs-to-planks)
 
@@ -16,9 +18,6 @@ Datapacks From BananaCNM and MC-Creator Create By MrChimKy
 ตัวอย่าง :
 
 ![](https://media.giphy.com/media/IwI41VjLX4thAGsjQ0/giphy.gif)
-
-ดาวน์โหลดเป็นไฟล์ Zip ได้ที่นี่ [Slab2Planks](../../slab2planks)
-
 
 
 <sup>:computer: Create and Develop By MrChimKy</sup>
