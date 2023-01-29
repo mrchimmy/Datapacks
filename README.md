@@ -1,12 +1,13 @@
 # Datapacks
 Datapacks From BananaCNM and MC-Creator Create By MrChimKy
 
-สารบัญ
-* [Slabs to Planks](Datapacks/slab2planks)
-
-[t](README.md#TEST)
+สารบัญ สูตรคราฟ
+* [สูตรคราฟ Slabs to Planks](README.md#slabs-to-planks)
 
 
-# TEST
+
+
+# Slabs to Planks
+
 
 ![](https://media.giphy.com/media/IwI41VjLX4thAGsjQ0/giphy.gif)
