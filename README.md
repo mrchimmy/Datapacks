@@ -2,7 +2,7 @@
 Datapacks From BananaCNM and MC-Creator Create By MrChimKy
 
 **สารบัญ สูตรคราฟ**
-* [สูตรคราฟ Slabs to Planks](../../README.md#slabs-to-planks)
+* [สูตรคราฟ Slabs to Planks](./README.md#slabs-to-planks)
 
 
 
@@ -17,6 +17,7 @@ Datapacks From BananaCNM and MC-Creator Create By MrChimKy
 
 ![](https://media.giphy.com/media/IwI41VjLX4thAGsjQ0/giphy.gif)
 
+ดาวน์โหลดเป็นไฟล์ Zip ได้ที่นี่ [Slab2Planks](../../slab2planks)
 
 
 
